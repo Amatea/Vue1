@@ -1,2 +1,2 @@
-# Vue1
-example
+# amateaVue
+# amateaVue
